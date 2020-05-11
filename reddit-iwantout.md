@@ -1,8 +1,6 @@
-
-
 Analysis of posts from [IWantOut](https://www.reddit.com/r/IWantOut/), a reddit forum containing posts of people who would like to move to another country
 
-Sankey Diagram showing origin and desired destination of redditors:
+Below is the Sankey Diagram showing the origins and desired destinations of redditors. A wider light puple line indicates a higher number of posts. You can view an expanded version of the Sankey diagram [here](https://rouenlee29.github.io/iwantout_sankey.html). 
 
 <html>
 <head><meta charset="utf-8" /></head>
@@ -36,5 +34,5 @@ Sankey Diagram showing origin and desired destination of redditors:
 </body>
 </html>
 
+Most redditors come from North America (not surprising, reddit is most popular in the US). Europe is the most desired destination (should I be surpised?).
 
-This is another regular paragraph.
