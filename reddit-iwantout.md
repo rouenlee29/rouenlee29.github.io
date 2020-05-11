@@ -1,4 +1,4 @@
-## Analysis IWantOut subreddit 
+
 
 Analysis of posts from [IWantOut](https://www.reddit.com/r/IWantOut/), a reddit forum containing posts of people who would like to move to another country
 
